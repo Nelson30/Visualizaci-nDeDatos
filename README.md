@@ -8,11 +8,6 @@ El proyecto final del curso de Visualización de Datos, consiste en realizar una
 
 Descripción de los datos
 
--Nombre: Lista de Jugadores Costarricenses y sus equipos
--Fuente/Creador: Dagoberto Herrera
--Proceso de creación: Consulta directa a wikidata
+El archivo que se utiliza para este trabajo es "Lista de Jugadores Costarricenses y sus equipos", el cual se encuentra en formatio CSV. Este archivo fué obtenido mediante una consulta directa a wikidata ejecutada por el profesor Dagoberto Herrera. 
 -Forma de acceso: Libre
--Licencia: ¿
--Fecha de publicación/Fecha de recuperación: 08/08/2020
--Formato de los archivos: CSV
-
+-Licencia: ¿ que se 
